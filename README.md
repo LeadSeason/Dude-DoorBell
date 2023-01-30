@@ -1,12 +1,10 @@
 <h1 align="center">Dude DoorBell™</h1>
 <p align="center">DoorBell made while in dude project.</p>
 <p  align="center">
-  <img src="https://github.com/LeadSeason/Dude-DoorBell/raw/main/assets/images/DoorBell-img01.jpg">
+  <img height="750" src="https://github.com/LeadSeason/Dude-DoorBell/raw/main/assets/images/DoorBell-img01.jpg">
 </p>
 
 DoorBell made with RF24 transceiver on arduino and rasberry pi
-
-
 
 ## About
 ### Raspberry
@@ -23,12 +21,16 @@ Power managemnt             |  sender board
 ![](./assets/images/Power-Supply-managment.png)  |  ![](./assets/images/Arduino-sender.png)
 
 ### Raspberry
-
-![](./assets/images/Raspberry-connections.png)
+<p  align="center">
+  <img height="500" src="https://raw.githubusercontent.com/LeadSeason/Dude-DoorBell/main/assets/images/Raspberry-connections.png">
+</p>
 
 # Cad
 Cad made with FreeCAD and printed with Eryone Thinker S v2.0 FDM 3d Printer
-![](./assets/images/cad.png)
+<p  align="center">
+  <img height="500" src="https://raw.githubusercontent.com/LeadSeason/Dude-DoorBell/main/assets/images/cad.png">
+</p>
+
 
 ## License
 <p align="center">
